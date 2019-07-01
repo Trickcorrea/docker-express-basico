@@ -1,0 +1,24 @@
+{
+  "name": "docker-express-basico",
+  "version": "1.0.0",
+  "description": "",
+  "main": "serve.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node serve.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Trickcorrea/docker-express-basico.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Trickcorrea/docker-express-basico/issues"
+  },
+  "homepage": "https://github.com/Trickcorrea/docker-express-basico#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
