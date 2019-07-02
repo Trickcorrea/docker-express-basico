@@ -5,6 +5,7 @@
   "main": "serve.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon serve.js",
     "start": "node serve.js"
   },
   "repository": {
@@ -20,5 +21,8 @@
   "homepage": "https://github.com/Trickcorrea/docker-express-basico#readme",
   "dependencies": {
     "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^1.19.1"
   }
 }
